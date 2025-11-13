@@ -1,4 +1,4 @@
-## Version 1.0 – Initial Build
+##  – Initial Build
 - Started the project using **React Native** and **TypeScript** with **Expo** for cross-platform development.
 - Created the main structure of the app with a **Home Screen** to display menu items.
 - Added functionality for the chef to add dishes with a name, description, price, and course selection (starter, main, dessert).
@@ -10,7 +10,7 @@
 
 ---
 
-## Version 2.0 – Major Update and Refactor
+##  – Major Update and Refactor
 - Added **React Navigation** and set up multiple screens:
 - **HomeScreen:** Displays all menu items and the average price per course.
 - **ManageMenuScreen:** Allows the chef to add or remove dishes.
@@ -26,7 +26,7 @@
 
 ---
 
-## Version 2.1 – Functional Enhancements
+##  – Functional Enhancements
 - Added a calculation feature to show **average price per course** on the home screen.
 - Used different loops to meet programming requirements:
 - **for loop** to go through each menu item and total prices.
